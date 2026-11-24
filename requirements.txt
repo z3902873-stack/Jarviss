@@ -1,0 +1,9 @@
+customtkinter
+SpeechRecognition
+PyAudio
+pyautogui
+pygame
+edge-tts
+pyttsx3
+anthropic
+google-genai
